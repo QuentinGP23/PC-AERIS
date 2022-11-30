@@ -1,0 +1,17 @@
+{
+  "name": "pcaeris",
+  "version": "1.0.0",
+  "description": "Custom PC creators and sellers",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass/main.scss:./css/style.css"
+  },
+  "keywords": [
+    "PC",
+    "sell",
+    "custom",
+    "computer"
+  ],
+  "author": "Quentin GEOFFROY PITAILLER",
+  "license": "ISC"
+}
