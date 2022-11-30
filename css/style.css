@@ -2,4 +2,19 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  box-sizing: border-box;
+  margin: 0;
+  width: 100%;
+  background-color: #293462;
+}
+
+header {
+  width: 100%;
+}
+
+header {
+  width: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */
